@@ -1,0 +1,6 @@
+C:\Users\user\Downloads\C++\Fatorial\AluguelVeiculos\AluguelVeiculos\bin\Debug\AluguelVeiculos.exe.config
+C:\Users\user\Downloads\C++\Fatorial\AluguelVeiculos\AluguelVeiculos\bin\Debug\AluguelVeiculos.exe
+C:\Users\user\Downloads\C++\Fatorial\AluguelVeiculos\AluguelVeiculos\bin\Debug\AluguelVeiculos.pdb
+C:\Users\user\Downloads\C++\Fatorial\AluguelVeiculos\AluguelVeiculos\obj\Debug\AluguelVeiculos.csprojResolveAssemblyReference.cache
+C:\Users\user\Downloads\C++\Fatorial\AluguelVeiculos\AluguelVeiculos\obj\Debug\AluguelVeiculos.exe
+C:\Users\user\Downloads\C++\Fatorial\AluguelVeiculos\AluguelVeiculos\obj\Debug\AluguelVeiculos.pdb
