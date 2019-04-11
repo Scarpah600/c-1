@@ -10,10 +10,26 @@ namespace AluguelVeiculos
     {
         static void Main(string[] args)
         {
-
+           
             Opcao op = new Opcao();
-            op.opcao();
+        
 
+            System.Console.WriteLine("----------------Auto Acesso Locadora de Veiculos------------------------------");
+            op.opcao();
+            
+
+            //Falta o Aluguel 
+            //Motorista que vai Dirigir o Veiculo
+            //Data da class verificar 
+            //Relatorio 
+
+            Aluguel aluga = new Aluguel();
+
+            
+
+
+
+            System.Console.WriteLine("----------------Auto Acesso Locadora de Veiculos Volte Sempre!------------------------------");
 
             System.Console.ReadKey();
         }
